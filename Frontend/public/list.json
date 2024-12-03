@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "title": "Story Book",
+        "price": 0,
+        "category": "Free",
+        "image": "./Freeimg.png",
+        "description": "An exciting tale of Tom's adventures in a fictional world."
+    },
+    {
+        "id": "2",
+        "title": "Cooking Book",
+        "price": 0,
+        "category": "Cooking",
+        "image": "./Freeimg.png",
+        "description": "A collection of exquisite recipes for aspiring chefs."
+    },
+    {
+        "id": "3",
+        "title": "Science Journal",
+        "price": 100,
+        "category": "Science",
+        "image": "./Freeimg.png",
+        "description": "Explore the mysteries universe in this journal."
+    },
+    {
+        "id": "4",
+        "title": "History Book",
+        "price": 0,
+        "category": "Free",
+        "image": "./Freeimg.png",
+        "description": "A detailed account of the events of the World Wars."
+    },
+    {
+        "id": "5",
+        "title": "Fantasy Book",
+        "price": 400,
+        "category": "Fantasy",
+        "image": "./Freeimg.png",
+        "description": "A magical journey filled with dragons, castles, and heroes."
+    },
+    {
+        "id": "6",
+        "title": "Kids Book",
+        "price": 0,
+        "category": "Kids",
+        "image": "./Freeimg.png",
+        "description": "A colorful and fun guide to help kids learn the alphabet."
+    },
+    {
+        "id": "7",
+        "title": "Health Guide",
+        "price": 0,
+        "category": "Free",
+        "image": "./Freeimg.png",
+        "description": "A comprehensive guide to maintaining a healthy lifestyle."
+    },
+    {
+        "id": "8",
+        "title": "Travel Guide",
+        "price": 300,
+        "category": "Travel",
+        "image": "./Freeimg.png",
+        "description": "Discover the best destinations and tips for exploring Europe."
+    },
+    {
+        "id": "9",
+        "title": "Art Book",
+        "price": 0,
+        "category": "Free",
+        "image": "./Freeimg.png",
+        "description": "A dive into the latest trends and movements in modern art."
+    },
+    {
+        "id": "10",
+        "title": "Business Book",
+        "price": 800,
+        "category": "Business",
+        "image": "./Freeimg.png",
+        "description": "Essential strategies for launching and growing a successful startup."
+    }
+]
